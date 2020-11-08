@@ -1,4 +1,4 @@
-# New Project
+# D3 Template for COSO
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
