@@ -30,7 +30,7 @@ function drawGraphs(element) {
     .attr('viewBox', [-width / 2, -height / 2, width, height])
 
   // D3 v6 simulation from Observable.
-  // https://observablehq.com/@d3/modifying-a-force-directed-graphhttps://observablehq.com/@d3/modifying-a-force-directed-graph
+  // https://observablehq.com/@d3/modifying-a-force-directed-graph
 
   let link = svg.append("g")
       .attr("stroke", "#000")
