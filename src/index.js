@@ -8,11 +8,14 @@ const dataset = {
     { id: 2, name: 'woot' },
     { id: 3, name: 'noot' },
     { id: 4, name: 'doot' },
+    { id: 5, name: 'doot' },
   ],
   links: [
     { source: 1, target: 2 },
     { source: 2, target: 3 },
     { source: 4, target: 3 },
+    { source: 3, target: 1 },
+    { source: 5, target: 1 },
   ],
 }
 
